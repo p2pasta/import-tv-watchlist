@@ -1,0 +1,15 @@
+{
+  "name": "import-tv-watchlist",
+  "version": "1.0.0",
+  "description": "Importing lists into TradingView projects without a subscription",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "p2pasta",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^10.0.0"
+  }
+}
